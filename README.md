@@ -25,23 +25,23 @@ The main objective of the Library Management System is to manage the details of 
  <br><br>
 <b><font size=18>Working of Project with Screenshots</b></font><br>
 First page:- Student register their identity on STUDENT REGISTRATION page.<br>
-<img src="1.png" width=600><br>
+<img src="1.png.png" width=600><br>
 This is the home page of the application, clicking the buttons will open a Book Details, Issue Book and Return Book will be displayed. <br>
-<img src="2.png" width=600><br>
+<img src="2.png.png" width=600><br>
 If student wants to know the books details then click on BOOK DETAILS :-<br>
 If librarian want to add new book into library then click on ADD A NEW BOOK <br>
-<img src="3.png" width=600><br>
+<img src="3.png.png" width=600><br>
 To issue the book click the ISSUE BOOK section and enter the Student Id and book Id :-<br>
-<img src="4.png" width=600><br>
+<img src="4.png.png" width=600><br>
 To know the details of issued book click on ISSUED BOOK DETAILS:-<br>
-<img src="5.png" width=600><br>
+<img src="5.png.png" width=600><br>
 To return back the issued book to library click on the RETURN BOOK :- <br>
-<img src="6.png" width=600><br>
+<img src="6.png.png" width=600><br>
 
 
 <b><font size=18>Activity Diagram</b></font><br>
-<img src="activity.png" width=600><br>
+<img src="activity.png.jpg" width=600><br>
 <b><font size=18>ER Diagram</b></font><br>
-<img src="er.png" width=600><br>
+<img src="er.png.jpg" width=600><br>
 <b><font size=18>Data Flow Diagram</b></font><br>
-<img src="flow.png" width=600><br>
+<img src="flow.png.jpg" width=600><br>
