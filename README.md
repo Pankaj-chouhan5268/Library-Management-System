@@ -1,7 +1,7 @@
 # pankaj
 # LibraryManagementSystem
 <b><font size=18><u>Objective</b></u></font><br>
-The main objective of the Library Management System is to manage the details of Student, Books, Issues, Member. It manages all the information about the address, librarian, student, book. The project is totally build at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the address, member, issues and student. It tracks all the details about the Issues, Books, Student.
+The main objective of the Library Management System is to manage the details of Student, Books, Issues, Member. It manages all the information about the address, librarian, student, book. The project is totally build at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the address, member, issues and student. It tracks all the details about the Issues, Books, Student.<br>
 <b><font size=18>Users of system</b></font><br>
 <ul><li>Student</li><li>Librarian</li><li>Member</li></ul>
 <b><font size=18>Functional Requirements</b></font><br>
