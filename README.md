@@ -29,6 +29,7 @@ The main objective of the Library Management System is to manage the details of 
  <li>Java</li>
  <li>Eclipse IDE </li>
  <li>rs2xml.jar</li>
+ </ul>
  <br>
  <b><font size=18>Advantages</b></font>
  <ul>
@@ -44,17 +45,18 @@ The main objective of the Library Management System is to manage the details of 
 </ul>
  <br>
 <b><font size=18>Working of Project with Screenshots</b></font><br>
-First page:- Student register their identity on STUDENT REGISTRATION page.<br>
-<img src="Images/1.png.png" width=600><br>
-This is the home page of the application, clicking the buttons will open a Book Details, Issue Book and Return Book will be displayed. <br>
-<img src="Images/2.png.png" width=600><br>
-If student wants to know the books details then click on BOOK DETAILS :-<br>
+<ul>
+ <li>First page:- Student register their identity on STUDENT REGISTRATION page.</li>
+<img src="Images/1.png.png" width=600>
+<li>This is the home page of the application, clicking the buttons will open a Book Details, Issue Book and Return Book will be displayed.</li>
+<img src="Images/2.png.png" width=600>
+<li>If student wants to know the books details then click on BOOK DETAILS :-</li>
 If librarian want to add new book into library then click on ADD A NEW BOOK <br>
 <img src="Images/3.png.png" width=600><br>
-To issue the book click the ISSUE BOOK section and enter the Student Id and book Id :-<br>
+<li>To issue the book click the ISSUE BOOK section and enter the Student Id and book Id :-</li>
 <img src="Images/4.png.png" width=600><br>
-To know the details of issued book click on ISSUED BOOK DETAILS:-<br>
+<li>To know the details of issued book click on ISSUED BOOK DETAILS:-</li>
 <img src="Images/5.png.png" width=600><br>
-To return back the issued book to library click on the RETURN BOOK :- <br>
+<li>To return back the issued book to library click on the RETURN BOOK :- </li>
 <img src="Images/6.png.png" width=600><br>
 
